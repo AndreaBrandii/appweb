@@ -1,0 +1,7 @@
+---
+mysql_root_password: "1234"
+app_user: "andrea"
+http_host: "acamarillo.com"
+http_conf: "acamarillo.com.conf"
+http_port: "80"
+disable_default: true
